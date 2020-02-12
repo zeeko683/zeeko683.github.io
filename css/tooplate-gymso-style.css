@@ -326,6 +326,10 @@ a:focus {
   display: inline-flex;
   float: left;
   margin-top: 2%;
+  flex-wrap: wrap;
+}
+.showcaseWrap img.img-fluid {
+  width: 100% !important;
 }
 .hero {
   background-image: url("https://cdn.discordapp.com/attachments/511821791405015040/676921091696099355/cave.png");
