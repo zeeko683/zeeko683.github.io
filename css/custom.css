@@ -1,0 +1,79 @@
+.wpicclaaa {
+  max-height: 50vh !important;
+  min-height: 50vh !important;
+}
+
+.epic-meme-container {
+  display: flex;
+  float: left;
+  margin-top: 2%;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+
+.zoomonhovewr {
+  transition: transform 0.2s;
+}
+
+.zoomonhovewr:hover {
+  transform: scale(1.2);
+  z-index: 10;
+}
+
+.zoomonhovewr img {
+  width: 300px;
+}
+
+.slider-wrapper {
+  margin: 100px;
+}
+
+.slider {
+  position: relative;
+  width: 1000px;
+  height: 5px;
+  overflow-x: hidden;
+  /* margin-top: 200px; */
+}
+
+.line {
+  position: absolute;
+  opacity: 0.4;
+  background: var(--primary-color);
+  width: 150%;
+  height: 5px;
+}
+
+.subline {
+  position: absolute;
+  background: var(--primary-color);
+  height: 5px;
+}
+.inc {
+  animation: increase 2s infinite;
+}
+.dec {
+  animation: decrease 2s 0.5s infinite;
+}
+
+@keyframes increase {
+  from {
+    left: -5%;
+    width: 5%;
+  }
+  to {
+    left: 130%;
+    width: 100%;
+  }
+}
+@keyframes decrease {
+  from {
+    left: -80%;
+    width: 80%;
+  }
+  to {
+    left: 110%;
+    width: 10%;
+  }
+}
