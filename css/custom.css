@@ -3,6 +3,12 @@
   min-height: 500px !important;
 }
 
+.objectfit {
+  /* object-fit: cover; */
+  height: 600px !important;
+  width: auto !important;
+}
+
 .epic-meme-container {
   display: flex;
   float: left;
@@ -76,4 +82,9 @@
     left: 110%;
     width: 10%;
   }
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  filter: invert(100%);
 }
