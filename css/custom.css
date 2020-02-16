@@ -1,3 +1,7 @@
+.hrline {
+  border-top: 1px solid rgb(0, 110, 255);
+}
+
 .backghz {
   max-height: 50vh !important;
   min-height: 500px !important;
@@ -7,6 +11,17 @@
   /* object-fit: cover; */
   height: 600px !important;
   width: auto !important;
+}
+
+.videosize {
+  width: 70%;
+  height: auto;
+  margin: auto;
+}
+
+.gamesize {
+  margin-left: 50vw;
+  transform: translateX(-50%);
 }
 
 .epic-meme-container {
