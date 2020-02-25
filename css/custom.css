@@ -156,3 +156,13 @@
   height: 1080;
   width: auto;
 }
+
+.spotify {
+  margin-left: 50vw;
+  transform: translateX(-50%);
+}
+
+.discord {
+  margin-left: 50vw;
+  transform: translateX(-50%);
+}
