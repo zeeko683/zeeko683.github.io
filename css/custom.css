@@ -147,8 +147,8 @@
 }
 
 .kankercssvaldoodaub {
-  width: 600px !important;
-  max-width: 90vw !important;
+  width: 600px;
+  max-width: 90vw;
   /* IK HOOP DAT DE MAKER VAN CSS DOOD GAAT AAN KANKER EN DAT ZIJN ZONEN OF DOCHTERS HEM IN DE GRAF MOETEN ZIEN. EN NIET IN HET MIDDEN VAN ZIJN GRAF MAAR SCHUIN */
 }
 
@@ -165,4 +165,13 @@
 .discord {
   margin-left: 50vw;
   transform: translateX(-50%);
+}
+
+@font-face {
+  font-family: animalCrossingFont;
+  src: url(../fonts/FinkHeavy.ttf);
+}
+
+.animalfont {
+  font-family: animalCrossingFont;
 }
