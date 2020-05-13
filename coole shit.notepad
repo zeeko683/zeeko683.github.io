@@ -1,0 +1,39 @@
+ <div>
+      <h1 class="text-center text-primary">
+        Hoe lang duurt het nog voordat Animal Crossing uit is gekomen
+      </h1>
+      <h1 id="demo" class="text-center display-1"></h1>
+    </div>
+
+    <div>
+      <h1 class="text-center text-secondary">
+        Hoe lang duurt het nog voordat Half Life Alyx uitkomt
+      </h1>
+      <h1 id="kanker" class="text-center display-1"></h1>
+    </div>
+
+    <hr class="hrline" />
+    <footer class="site-footer" id="contact">
+      <div class="container">
+        <div class="row">
+          <div
+            class="d-flex justify-content-center mx-auto col-lg-5 col-md-7 col-12"
+          >
+            <p class="mr-4">
+              <i class="fa fa-envelope-o mr-1"></i>
+              <a href="#">kankerdikkekebakneger.tk</a>
+            </p>
+            <p><i class="fa fa-ban mr-1"></i> You have reached the end</p>
+            <p>
+              <i class="fa fa-steam mr-1"></i>
+              <a
+                target="blank"
+                href="https://steamcommunity.com/id/Furryarenotgay/"
+              >
+                My other steam account</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
