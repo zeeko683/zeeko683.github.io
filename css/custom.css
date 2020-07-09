@@ -731,3 +731,8 @@ background-color: #222;
   height: 100vh;
   object-fit: fill;
 }
+.BGred {
+  background-color: darkred;
+  border-style: double;
+  border-color: silver;
+}
