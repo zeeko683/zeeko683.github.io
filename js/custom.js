@@ -119,3 +119,5 @@ window.onscroll = function(){
   let progressHeight = (window.pageYOffset / totalHeight) * 100;
   progress.style.height = progressHeight + "%";
 }
+
+//button n shit

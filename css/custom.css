@@ -736,3 +736,7 @@ background-color: #222;
   border-style: double;
   border-color: silver;
 }
+.clock {
+  margin-left: 50vw;
+  transform: translateX(-50%);
+}
