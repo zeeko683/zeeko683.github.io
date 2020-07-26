@@ -120,4 +120,13 @@ window.onscroll = function(){
   progress.style.height = progressHeight + "%";
 }
 
-//button n shit
+//max
+
+function max() {
+  document.getElementById("max").innerHTML = "sike ur not ecks dee laugh emoji ect"
+  }
+
+  function tits(){
+  document.getElementById("tits").innerHTML = "i love tits lol"
+  }
+  
