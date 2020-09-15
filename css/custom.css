@@ -624,3 +624,23 @@
       234px 0 8px rgba(61, 195, 255, 0.2), 281px 0 10px rgba(61, 195, 255, 0);
   }
 }
+
+.cock {
+  margin: 25px 10px;
+  animation-duration: 5s;
+  color: red;
+  animation: linear 0s infinite;
+}
+
+}
+@keyframes example {
+  0% {
+    color: red;
+  }
+  50% {
+    color: green;
+  }
+  100% {
+    color: red;
+  }
+}
