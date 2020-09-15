@@ -1,5 +1,5 @@
 var age = prompt("What is your age?");
-if (parseInt(age) < 18) {
+if (!(parseInt(age) >= 18)) {
   alert("you must be 18 years or older to view my collection");
   window.location = "https://www.youtube.com/watch?v=ZloHwUlO-Rk";
 }
